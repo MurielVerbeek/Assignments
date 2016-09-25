@@ -74,6 +74,6 @@ Tutor at StudentsPlus, general employee at Casa di Emozione and call agent at Ca
 Skills	
 -------
 
-Computer skills: Microsoft Word, Excel and PowerPoint
+Computer skills: Stata, Microsoft Word, Excel and PowerPoint
 
 Language skills: Native Dutch speaking, fluent in English
